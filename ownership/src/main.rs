@@ -1,11 +1,37 @@
+// use std::io;
+// fn main() {
+//     println!("Please enter string");
+//     let mut a = String::new();
+//     io::stdin().read_line(&mut a).expect("Failed to read line");
+//     lenght_of_string(a);
+//     println!("lenght  is : {} ", a);
+// }
+
+// fn lenght_of_string(b: String) {
+//     let c = b.trim();
+//     println!("The length of {} is {}", c, c.len())
+// }
+
+use std::io;
 fn main() {
-    let a = String::from("hello"); //hello
-    let c = lenght_of_string(a); //(length,string)
-    println!("lenght  is : {} b is {}", c.0, c.1);
+    println!("Enter your string.");
+    let mut user_input = String::new();
+    io::stdin()
+        .read_line(&mut user_input)
+        .expect("Failed to read line");
+
+    //y
+
+    println!(
+        "the length of your string:{} is :{}",
+        user_input,
+        find_length(&user_input)
+    );
 }
 
-fn lenght_of_string(b: String) -> (usize, String) {
-    (b.len(), b)
+fn find_length(x: &String) -> usize {
+    let y = x.trim().len();
+    y
 }
 
 // let mut a = "hello"; //stack
