@@ -59,33 +59,12 @@
 //     };
 //     println!(" user2 :{:#?}", user2);
 
-
-
-
-
-
-
-
-///
-/// take user input of some string pass it in function and
-///  print the string and its length
-/// 
-/// take user input of some string calculate its
-///  length using function print the string and its length 
-/// in main function
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//
+// take user input of some string pass it in function and
+//  print the string and its length
+//
+// take user input of some string calculate its
+//  length using function print the string and its length
+// in main function
 
 // }
