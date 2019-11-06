@@ -1,6 +1,6 @@
 fn main() {
     //marksheet 
-    // for A+,A,B ,C and fail grade
+    // for A+,A,B ,C and fail 
     let marks =62;
 
     if marks >=70 && marks<80{
