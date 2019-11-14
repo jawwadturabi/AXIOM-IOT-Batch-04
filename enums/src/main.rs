@@ -29,6 +29,7 @@
 // }
 
 fn main() {
+
     // let student1 = Student::Boys {
     //     name: String::from("Ali"),
     //     age: 56,
