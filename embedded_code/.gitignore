@@ -1,0 +1,5 @@
+/auxiliary
+/target
+**/*.rs.bk
+/.git
+

@@ -1,0 +1,10 @@
+/home/jawwad-turabi/Desktop/Iot-batch-04/embedded_code/auxiliary/target/thumbv7em-none-eabihf/debug/deps/cortex_m-cd08f9d432380e16.rmeta: /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/lib.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/macros.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/mod.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/dwt.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/nvic.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/scb.rs
+
+/home/jawwad-turabi/Desktop/Iot-batch-04/embedded_code/auxiliary/target/thumbv7em-none-eabihf/debug/deps/cortex_m-cd08f9d432380e16.d: /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/lib.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/macros.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/mod.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/dwt.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/nvic.rs /home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/scb.rs
+
+/home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/lib.rs:
+/home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/macros.rs:
+/home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/mod.rs:
+/home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/dwt.rs:
+/home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/nvic.rs:
+/home/jawwad-turabi/.cargo/registry/src/github.com-1ecc6299db9ec823/cortex-m-0.5.10/src/peripheral/scb.rs:

@@ -1,3 +1,24 @@
+fn main() {
+    // let mut a: i64 = 0x7ffc00ef5624;
+    // let b = &mut a as *mut i64; //
+    // let c = &a as *const i64;
+    // unsafe {
+    //     *b += 3; //value of  a
+    // }
+    // println!(" a is {:?}", a);
+    // let mut address = 0x012345usize;
+    // let mut r = address as *const i32;
+    // unsafe {
+    //     println!("r is {:?}", *r);
+    // }
+    let mut a = 9;
+    unsafe {
+        let b = &mut a;
+        let c = &a;
+        println!("b is {} and c is {}", b, c)
+    }
+}
+
 // use std::collections::HashMap;
 // #[derive(Debug)]
 

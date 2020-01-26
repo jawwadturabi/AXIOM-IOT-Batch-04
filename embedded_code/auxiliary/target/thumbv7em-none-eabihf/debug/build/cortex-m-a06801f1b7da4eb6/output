@@ -1,0 +1,5 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=/home/jawwad-turabi/Desktop/Iot-batch-04/embedded_code/auxiliary/target/thumbv7em-none-eabihf/debug/build/cortex-m-a06801f1b7da4eb6/out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m
+cargo:rustc-cfg=has_fpu

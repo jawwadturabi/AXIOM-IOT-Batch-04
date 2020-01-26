@@ -1,0 +1,1 @@
+{"rustc":10683586082858123265,"features":"[\"cortex-m-rt\", \"rt\"]","target":10088282520713642473,"profile":9935990280773120926,"path":17201599133381518065,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/stm32f30x-8b6cfcc3c76176ab/dep-build-script-build_script_build-8b6cfcc3c76176ab"}}],"rustflags":[],"metadata":8763008816100908392}
